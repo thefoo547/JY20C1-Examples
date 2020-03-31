@@ -21,7 +21,7 @@ int main(void)
         // se lee la respuesta del usuario
         ans = get_int("Adivina el numero: ");
     // si no se acertó, se repite
-    }while(ans!=rnum);
+    }while(ans != rnum);
 
     printf("Al fin lo adivinaste!\n");
 

@@ -1,0 +1,34 @@
+
+body {
+    margin: 0;
+}
+#parte1 {
+    background-color: #f5e150;
+    text-align:center;
+}
+.celeste {
+    color: #3488fc;
+}
+.espacio {
+    margin-top: 35px;
+}
+.borde-redondo {
+    border: #000 solid 2px;
+    border-radius: 10px;
+}
+.boton {
+    border: #000 solid 1px;
+    border-radius: 10px;
+    background-color: #000;
+    color: white;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: 0.4s;
+}
+.boton:hover {
+    background-color: #8ec1ec;
+}
+
+
+
